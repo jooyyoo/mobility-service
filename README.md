@@ -4,6 +4,14 @@
 :link:[공부 내용 정리 노션](https://wise-fibre-4d5.notion.site/8a4dfc0b55a04da38fa06f44e36ade61)
 
 
+## Bash Script
+```
+sudo apt update
+sudp apt upgrade
+sudo apt install vim
+
+```
+
 ## ROS2 turtlesim
 ```
 
